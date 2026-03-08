@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SunScout G2 v14 G2 Path Map
 
 Changes:
