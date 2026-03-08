@@ -1,3 +1,59 @@
+<<<<<<< HEAD
+
+
+## SunScout Pro
+
+Heads-Up Sun Tracking for Cinematographers & Location Scouts  
+Designed for the **Even Realities G2 Smart Glasses**
+
+Scan the QR code below to install or learn more about the project.
+
+<p align="center">
+  <img src="docs/sunscout_qr_poster.png" width="500">
+</p>
+
+### What is SunScout Pro?
+
+SunScout Pro is a heads-up sun-tracking tool designed specifically for film production professionals.
+
+It allows **cinematographers, directors, and location scouts** to instantly visualize:
+
+- Sunrise direction
+- Sunset direction
+- Golden hour windows
+- Sun elevation and azimuth
+- Sun path overlays in AR
+
+All directly through **Even Realities G2 smart glasses**.
+
+### Key Features
+
+• Real-time sun path visualization  
+• Voice command location search  
+• GPS "Use Current Location" mode  
+• Golden hour indicators  
+• Sunrise / Sunset azimuth degrees  
+• Cinematography-focused HUD design  
+
+### Built For
+
+- Cinematographers
+- Location Managers
+- Location Scouts
+- Directors
+- Production Designers
+- VFX Pre-vis teams
+
+### Hardware
+
+Currently optimized for:
+
+**Even Realities G2 Smart Glasses**
+
+### Created By
+
+Zachary Quemore
+
 
 # SunScout G2 v14 G2 Path Map
 
